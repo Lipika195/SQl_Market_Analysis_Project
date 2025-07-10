@@ -1,4 +1,4 @@
-Project Title
+Project Title: 
 Smartphone Market Analysis using SQL & Excel
 
 Project Overview
