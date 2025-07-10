@@ -54,7 +54,7 @@ The project answers the following questions using MySQL:
 - Most cost-efficient smartphone per brand
 - Popular RAM–Storage configurations and their average price and rating
 
- Key Insights
+ Key Insights:
 
 -  Top brands by model count: Xiaomi, Samsung, Vivo lead in smartphone variety.
 -  Premium brands: Vertu, Royole, Leitz, and Apple top the price chart.
@@ -67,7 +67,7 @@ The project answers the following questions using MySQL:
  - Above ₹30K: 30%
 - Most common configuration: 8 GB RAM & 128 GB storage in mid-range phones.
 
- Visualizations (Excel Charts)
+ Visualizations (Excel Charts):
    
 -  Number of Smartphones by Brand
 -  Average Price by Brand
