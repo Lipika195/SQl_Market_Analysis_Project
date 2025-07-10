@@ -1,6 +1,6 @@
 Project Title: 
 
-Smartphone Market Analysis using SQL & Excel
+"Smartphone Market Analysis using SQL & Excel"
 
 Project Overview:
 
