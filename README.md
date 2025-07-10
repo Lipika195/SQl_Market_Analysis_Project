@@ -1,7 +1,7 @@
 Project Title: 
 Smartphone Market Analysis using SQL & Excel
 
-Project Overview
+Project Overview:
  This project presents a detailed analysis of smartphone market trends using structured SQL queries and Excel-based visualizations. By querying a dataset of smartphone specifications and features, it explores      brand performance, pricing trends, 5G support, hardware configurations, and user ratings.
  The insights have been visually represented through Excel charts and compiled into a PDF report for easy interpretation and presentation.
  The aim is to generate valuable insights for data-driven decision-making by answering real-world business questions such as:
